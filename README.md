@@ -1,5 +1,5 @@
 ### Voici mon [Portfolio](http://timotheeriou.byethost31.com/) dans lequel vous pouvez trouver les projets sur lesquels j'ai travaillé pendant mes études.    
-timo.riou@gmail.com
+Contact: timo.riou@gmail.com
       
 
 <!--
