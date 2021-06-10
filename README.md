@@ -1,5 +1,17 @@
-### Voici mon portfolio !
+### Voici mon portfolio dans lequel vous pouvez trouver les projets sur lesquels j'ai travaillé pendant mes études.
 http://timotheeriou.byethost31.com/
+
+
+<html>
+<body>
+
+<p class="copyright">&copy; <a href="https://github.com/TimotheeRiou" target="_blank">Timothée
+                    Riou</a><br>timo.riou@gmail.com</p>
+
+</body>
+</html>
+                    
+[Portfolio](http://timotheeriou.byethost31.com/)      
 
 <!--
 **TimotheeRiou/TimotheeRiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
